@@ -1,0 +1,31 @@
+
+Oct 27, 2019 23:40:13.59 NEW SESSION
+Oct 27, 2019 23:40:13.59 [24380:21592:1027/234013.590:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 27, 2019 23:45:17.76 [24380:21592:1027/234517.760:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 27, 2019 23:50:29.25 [24380:21592:1027/235029.252:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Oct 31, 2019 19:03:11.83 NEW SESSION
+Oct 31, 2019 19:03:11.83 [33116:45976:1031/190311.830:ERROR:CONSOLE(307)] "Uncaught Error: The number of tiles (18) exceeds the maximum (10).", source: chrome-search://most-visited/single.js (307)
+Oct 31, 2019 19:03:11.83 [33116:45976:1031/190311.831:ERROR:CONSOLE(307)] "Uncaught Error: The number of tiles (18) exceeds the maximum (10).", source: chrome-search://most-visited/single.js (307)
+Oct 31, 2019 19:44:25.61 [33116:45976:1031/194425.612:ERROR:CONSOLE(307)] "Uncaught Error: The number of tiles (18) exceeds the maximum (10).", source: chrome-search://most-visited/single.js (307)
+Oct 31, 2019 19:44:25.61 [33116:45976:1031/194425.613:ERROR:CONSOLE(307)] "Uncaught Error: The number of tiles (18) exceeds the maximum (10).", source: chrome-search://most-visited/single.js (307)
+Oct 31, 2019 20:06:38.69 [33116:27876:1031/200638.693:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Oct 31, 2019 20:12:01.05 [33116:27876:1031/201201.056:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Nov 01, 2019 23:41:33.35 NEW SESSION
+Nov 01, 2019 23:41:33.35 [10052:71620:1101/234133.354:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 01, 2019 23:56:06.97 [68056:78036:1101/235606.974:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+
+Nov 03, 2019 19:18:32.84 NEW SESSION
+Nov 03, 2019 19:18:32.84 [2800:13216:1103/191832.845:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:22:04.54 [34100:25412:1103/192204.545:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:25:00.48 [81372:31668:1103/192500.489:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:27:17.77 [60960:45940:1103/192717.772:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:30:57.35 [9664:50164:1103/193057.357:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:37:32.85 [7344:11728:1103/193732.856:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:40:21.71 [28232:65868:1103/194021.711:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:45:10.36 [39096:2944:1103/194510.365:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+Nov 03, 2019 19:49:39.49 [77420:71616:1103/194939.494:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+
+Nov 05, 2019 15:10:46.80 NEW SESSION
+Nov 05, 2019 15:10:46.80 [30956:68832:1105/151046.802:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

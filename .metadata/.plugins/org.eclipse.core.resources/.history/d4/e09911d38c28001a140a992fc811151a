@@ -1,0 +1,8 @@
+package com.deloitte.india;
+
+public class Test {
+
+	int var = 100;
+	
+	
+}

@@ -1,0 +1,5 @@
+package deloitte.day2;
+
+public class InvalidAgeException {
+
+}

@@ -1,0 +1,18 @@
+package com.deloitte.india.ext;
+
+public class Lion extends Cat{
+	
+	static {
+		classification = "Mamal";
+	}
+	
+	public Lion() {
+		System.out.println("Lion Class constructor executed...");
+		System.out.println(classification);
+	}
+	
+	protected void foodHabit() {
+		System.out.println("Animal has a food habit...");
+	}
+
+}

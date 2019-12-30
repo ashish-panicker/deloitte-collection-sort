@@ -1,0 +1,28 @@
+package day3.deloitte;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		
+		List<String> artists = new ArrayList<>();
+		List<String> goldenArtists = new ArrayList<>();
+		
+		goldenArtists.add("R D Burman");
+		goldenArtists.add("Lakshmikant Pyarelal");
+		goldenArtists.add("Bappi Lahri");
+		
+		artists.add("A R Rahman");
+		artists.add("Pritam");
+		artists.add(0, "Vishal Shekhar");
+		
+		for(String artist : artists) {
+			System.out.println(artist.toUpperCase());
+		}
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;asnwer&apos; in &apos;model.Question&apos; to &apos;answer&apos;&#x0D;&#x0A;- Original project: &apos;session-demo&apos;&#x0D;&#x0A;- Original element: &apos;model.Question.asnwer&apos;&#x0D;&#x0A;- Renamed element: &apos;model.Question.answer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;asnwer&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;model{Question.java[Question^asnwer" name="answer" references="true" setter="false" stamp="1571899655063" textual="false" version="1.0"/>
+</session>

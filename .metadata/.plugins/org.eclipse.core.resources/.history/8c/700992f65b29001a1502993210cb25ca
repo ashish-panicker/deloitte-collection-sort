@@ -1,0 +1,16 @@
+package com.deloitte.india.ext;
+
+public abstract class Animal {
+	
+	protected String classification ;
+	
+	public Animal() {
+		System.out.println("Animal Class constructor executed...");
+	}
+	
+	public Animal(String classification) {
+		
+	}
+	protected abstract void foodHabit();
+
+}

@@ -1,0 +1,9 @@
+package com.deloitte.india.ext;
+
+public class Lion extends Cat{
+	
+	public Cat() {
+		System.out.println("Cat Class constructor executed...");
+	}
+
+}

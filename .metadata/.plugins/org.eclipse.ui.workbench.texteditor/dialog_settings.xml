@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="getMessage()"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="getMessage()"/>
+			<item value="Objects"/>
+			<item value="pulse"/>
+			<item value="s6"/>
+			<item value="date"/>
+			<item value="posted"/>
+			<item value="posted date"/>
+			<item value="|"/>
+			<item value="my post title"/>
+			<item value="my post area"/>
+			<item value="z-depth-5"/>
+			<item value="`"/>
+			<item value="form-control"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Object"/>
+			<item value=" "/>
+			<item value="s12"/>
+			<item value="posted on : 10-October-2019"/>
+			<item value="posted on : 10-October.2019"/>
+			<item value="on"/>
+			<item value="my post title | my post area"/>
+			<item value="posted date"/>
+			<item value="form-check-input"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="801"/>
+		<item key="DIALOG_Y_ORIGIN" value="228"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

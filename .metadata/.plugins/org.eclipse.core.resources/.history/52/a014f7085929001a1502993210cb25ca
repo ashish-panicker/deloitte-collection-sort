@@ -1,0 +1,9 @@
+package deloitte.day2;
+
+public class InvalidAgeException extends Exception{
+	
+	private String message;
+	
+	
+
+}

@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Mon Nov 25 14:48:07 IST 2019
+org.eclipse.jst.jee.server\:StudentDetailsWeb=C\:\\apache\\apache-tomcat-8.5.47\\wtpwebapps\\StudentDetailsWeb
+org.eclipse.jst.jee.server\:messge-web=C\:\\apache\\apache-tomcat-8.5.47\\wtpwebapps\\messge-web
+org.eclipse.jst.jee.server\:mongo-hb-web1=C\:\\apache\\apache-tomcat-8.5.47\\wtpwebapps\\mongo-hb-web1
+org.eclipse.jst.jee.server\:CraigsList=C\:\\apache\\apache-tomcat-8.5.47\\wtpwebapps\\CraigsList
+org.eclipse.jst.jee.server\:adlist=C\:\\apache\\apache-tomcat-8.5.47\\wtpwebapps\\adlist
