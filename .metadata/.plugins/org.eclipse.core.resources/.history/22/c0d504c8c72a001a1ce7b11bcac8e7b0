@@ -22,10 +22,6 @@ public class Main {
 		manager.defaultSort();
 		manager.print();
 		
-		System.out.println("After name sort...");
-		manager.nameSort();
-		manager.print();
-		
 		/*
 		 * // List<String> artists = new ArrayList<>(); // List<String> goldenArtists =
 		 * new ArrayList<>(); // // goldenArtists.add("R D Burman"); //

@@ -10,20 +10,16 @@ public class Main {
 		
 		DataManager manager = new DataManager();
 		
+		manager.add(new Teacher(1, "Ashish", "ashish@gmail.com"));
 		manager.add(new Teacher(2, "Prem", "prem@gmail.com"));
 		manager.add(new Teacher(4, "Anjali", "anjali@gmail.com"));
 		manager.add(new Teacher(3, "Ratna", "ratna@gmail.com"));
-		manager.add(new Teacher(1, "Ashish", "ashish@gmail.com"));
 				
 		System.out.println("Before sorting...");
 		manager.print();
 		
 		System.out.println("After default sort...");
 		manager.defaultSort();
-		manager.print();
-		
-		System.out.println("After name sort...");
-		manager.nameSort();
 		manager.print();
 		
 		/*

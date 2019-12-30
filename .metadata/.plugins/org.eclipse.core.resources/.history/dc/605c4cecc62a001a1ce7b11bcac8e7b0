@@ -2,7 +2,6 @@ package day3.deloitte;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class DataManager {
@@ -25,19 +24,6 @@ public class DataManager {
 	
 	public void defaultSort() {
 		Collections.sort(teachers);
-	}
-	
-	public void nameSort() {
-		Collections.sort(teachers, new NameSort());
-	}
-	
-	class NameSort implements Comparator<Teacher>{
-
-		@Override
-		public int compare(Teacher o1, Teacher o2) {
-			return o1.getName().compareTo(o2.getName());
-		}
-		
 	}
 
 }

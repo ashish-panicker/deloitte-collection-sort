@@ -28,7 +28,7 @@ public class DataManager {
 	}
 	
 	public void nameSort() {
-		Collections.sort(teachers, new NameSort());
+		Collections.sort(teachers, new NamesSort());
 	}
 	
 	class NameSort implements Comparator<Teacher>{

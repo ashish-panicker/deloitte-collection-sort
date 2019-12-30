@@ -49,8 +49,8 @@ public class Teacher implements Comparable<Teacher>{
 	@Override
 	public int compareTo(Teacher o) {
 		if(id > o.getId())
-			return 1;
-		else
 			return -1;
+		else
+			return 1;
 	}
 }

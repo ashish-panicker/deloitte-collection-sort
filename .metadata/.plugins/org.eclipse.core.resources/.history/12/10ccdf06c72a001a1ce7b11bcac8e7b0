@@ -27,16 +27,7 @@ public class DataManager {
 		Collections.sort(teachers);
 	}
 	
-	public void nameSort() {
-		Collections.sort(teachers, new NameSort());
-	}
-	
 	class NameSort implements Comparator<Teacher>{
-
-		@Override
-		public int compare(Teacher o1, Teacher o2) {
-			return o1.getName().compareTo(o2.getName());
-		}
 		
 	}
 
