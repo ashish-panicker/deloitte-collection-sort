@@ -31,6 +31,14 @@ public class DataManager {
 		Collections.sort(teachers, new NameSort());
 	}
 	
+	public void emailSort() {
+		Collections.sort(teachers,new Comparator<Teacher>() {
+			public int compare(Teacher o1, Teacher o2) {
+				return o1.getEmail().compareTo(o2.getEmail());
+			}
+		} );
+	}
+	
 	class NameSort implements Comparator<Teacher>{
 
 		@Override

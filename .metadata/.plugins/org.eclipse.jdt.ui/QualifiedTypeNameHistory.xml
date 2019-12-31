@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="model.Post"/>
-<fullyQualifiedTypeName name="org.hibernate.annotations.GenericGenerator"/>
-<fullyQualifiedTypeName name="com.message.utilities.HibernateUtil"/>
-<fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
-<fullyQualifiedTypeName name="com.message.dao.UserDao"/>
-<fullyQualifiedTypeName name="com.message.dao.UserDaoImpl"/>
-<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
-<fullyQualifiedTypeName name="com.message.model.User"/>
-<fullyQualifiedTypeName name="com.message.service.UserService"/>
-<fullyQualifiedTypeName name="org.hibernate.usertype.UserVersionType"/>
-<fullyQualifiedTypeName name="com.message.service.UserServiceImpl"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
-<fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
 <fullyQualifiedTypeName name="com.HibernateOGMUtil"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
@@ -35,10 +18,8 @@
 <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.example.demo.controller.Course"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 <fullyQualifiedTypeName name="com.example.demo.service.UserService"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
@@ -60,4 +41,23 @@
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="deloitte.day2.InvalidAgeException"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="day3.deloitte.DataManager"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="day3.deloitte.Teacher"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Deque"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="oracle.jdbc.driver.OracleDriver"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>
