@@ -24,7 +24,6 @@ public class Main {
 		Date orderDate;
 		
 		public OrderItem(int id, int orderId, int quantity, String name, Date orderDate) {
-			super();
 			this.id = id;
 			this.orderId = orderId;
 			this.quantity = quantity;
@@ -93,7 +92,7 @@ public class Main {
 			conn.setAutoCommit(false);
 			
 			String orderSql = "insert into orders values ( ?, ?)";
-			String orderItemSql = "insert into order_items values ( ?, ?, ?, ?)";
+			String orderItemSql = "insert into order_items values ( ?, ?, ?, ?, ? )";
 			
 			PreparedStatement orderStmt = conn.prepareStatement(orderSql);
 			PreparedStatement orderItemStmt = conn.prepareStatement(orderItemSql);
@@ -106,10 +105,13 @@ public class Main {
 			orderItems.add(new OrderItem(3, 100, 4, "Life Is What You Make It", new Date(new java.util.Date().getTime())));
 			
 			for (OrderItem item : orderItems) {
+				
 				orderItemStmt.setInt(1, item.id);
 				orderItemStmt.setInt(2, item.orderId);
 				orderItemStmt.setInt(3, item.quantity);
 				orderItemStmt.setString(4,item.name);
+				orderItemStmt.setDate(5, item.orderDate);
+				
 				orderItemStmt.addBatch();
 			}
 			
