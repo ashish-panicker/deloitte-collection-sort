@@ -83,13 +83,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.demo.something"/>
 		</list>
 		<list key="groupId">
-			<item value="com.demo"/>
 		</list>
 		<list key="artifactId">
-			<item value="something"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -105,10 +102,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="deloitte.demo"/>
+			<item value="deloitte.hb"/>
 		</list>
 		<list key="name">
+			<item value="hibernate demo 1"/>
+			<item value="Hibernate demo 1"/>
 		</list>
 		<list key="artifactId">
+			<item value="hb.demo1"/>
+			<item value="dbdemo1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
