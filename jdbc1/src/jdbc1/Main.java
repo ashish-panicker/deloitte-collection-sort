@@ -46,7 +46,7 @@ public class Main {
 		try {
 
 //			Class.forName("oracle.jdbc.driver.OracleDriver");
-			conn = DriverManager.getConnection("jdbc:oracle:thin:@192.168.0.140:1521:XE", "hr", "hr");
+			conn = DriverManager.getConnection("jdbc:oracle:thin:@1ocalhost:1521:XE", "hr", "hr");
 			conn.setAutoCommit(false);
 			PreparedStatement ps = conn.prepareStatement("update emp2 set ename=? where ecode=?");// it's not working
 
