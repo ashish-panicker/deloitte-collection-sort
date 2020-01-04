@@ -60,6 +60,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.dmeo2"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.demo1\pom.xml"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.demo1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -106,10 +109,14 @@
 			<item value="deloitte.hb"/>
 		</list>
 		<list key="name">
+			<item value="Hb Inheritance demo"/>
+			<item value="Hb demo 2"/>
 			<item value="hibernate demo 1"/>
 			<item value="Hibernate demo 1"/>
 		</list>
 		<list key="artifactId">
+			<item value="hb.demo3"/>
+			<item value="hb.dmeo2"/>
 			<item value="hb.demo1"/>
 			<item value="dbdemo1"/>
 		</list>
