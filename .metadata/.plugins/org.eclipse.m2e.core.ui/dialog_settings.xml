@@ -74,7 +74,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -86,10 +86,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="deloitte.demo.web.demo1"/>
 		</list>
 		<list key="groupId">
+			<item value="deloitte.demo"/>
 		</list>
 		<list key="artifactId">
+			<item value="web.demo1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -105,20 +108,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="deloitte.demo"/>
-			<item value="deloitte.hb"/>
 		</list>
 		<list key="name">
-			<item value="Hb Inheritance demo"/>
-			<item value="Hb demo 2"/>
-			<item value="hibernate demo 1"/>
-			<item value="Hibernate demo 1"/>
 		</list>
 		<list key="artifactId">
-			<item value="hb.demo3"/>
-			<item value="hb.dmeo2"/>
-			<item value="hb.demo1"/>
-			<item value="dbdemo1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -131,5 +124,7 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

@@ -3,4 +3,7 @@
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="35">
     <list key="modules" value0="adlist::org.eclipse.jst.jee.server:adlist::jst.web::3.1" value1="mongo-hb-web1::org.eclipse.jst.jee.server:mongo-hb-web1::jst.web::3.1" value2="StudentDetailsWeb::org.eclipse.jst.jee.server:StudentDetailsWeb::jst.web::3.1" value3="messge-web::org.eclipse.jst.jee.server:messge-web::jst.web::3.1" value4="CraigsList::org.eclipse.jst.jee.server:CraigsList::jst.web::3.1"/>
   </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="2">
+    <list key="modules" value0="web-demo1::org.eclipse.jst.jee.server:web-demo1::jst.web::3.1"/>
+  </server>
 </servers>

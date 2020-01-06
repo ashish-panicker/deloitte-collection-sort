@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+
+	<display-name>web-demo1</display-name>
+
+	<welcome-file-list>
+		<welcome-file>register</welcome-file>
+	</welcome-file-list>
+
+	<context-param>
+		<param-name>url</param-name>
+		<param-value>jdbc:oracle:thin:@localhost:1521:XE</param-value>
+	</context-param>
+	<context-param>
+		<param-name>userName</param-name>
+		<param-value>hr</param-value>
+	</context-param>
+	<context-param>
+		<param-name>password</param-name>
+		<param-value>hr</param-value>
+	</context-param>
+	
+	<listener>
+		<listener-class>web.demo.listner.AppListner</listener-class>
+	</listener>
+	
+	<servlet>
+		<servlet-name>Hello World Servlet</servlet-name>
+		<servlet-class>web.demo.GreetingServlet</servlet-class>
+		<init-param>
+			<param-name>options</param-name>
+			<param-value>Java ,Python , Informatica ,Testing, Big Data 
+				,Machine Learning
+			</param-value>
+		</init-param>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Hello World Servlet</servlet-name>
+		<url-pattern>/greeting</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Hello World Servlet</servlet-name>
+		<url-pattern>/welcome</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Hello World Servlet</servlet-name>
+		<url-pattern>/multiply</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>Math Servlet</servlet-name>
+		<servlet-class>web.demo.MathServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Math Servlet</servlet-name>
+		<url-pattern>/math</url-pattern>
+	</servlet-mapping>
+
+</web-app>
