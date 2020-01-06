@@ -70,8 +70,10 @@ public class ViewServlet extends HttpServlet {
 					out.println(rs.getString(1));
 					out.println("</td>");
 
+					String email = rs.getString(2);
+
 					out.println("<td>");
-					out.println(rs.getString(2));
+					out.println(email);
 					out.println("</td>");
 
 					out.println("<td>");
@@ -80,6 +82,20 @@ public class ViewServlet extends HttpServlet {
 
 					out.println("<td>");
 					out.println(rs.getString(4));
+					out.println("</td>");
+
+					out.println("<td>");
+					out.println("<form action='delete' method='get'>");
+					out.print("<input type='hidden' name = 'email' value='" + email.trim() + "'/>");
+					out.println("<button type='submit'>Delete</button>");
+					out.println("</form>");
+					out.println("</td>");
+					
+					out.println("<td>");
+					out.println("<form action='update' method='get'>");
+					out.print("<input type='hidden' name = 'email' value='" + email.trim() + "'/>");
+					out.println("<button type='submit'>Edit</button>");
+					out.println("</form>");
 					out.println("</td>");
 
 					out.println("</tr>");
