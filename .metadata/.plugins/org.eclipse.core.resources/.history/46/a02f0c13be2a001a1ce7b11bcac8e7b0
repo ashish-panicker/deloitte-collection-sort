@@ -1,7 +1,0 @@
-package day3.deloitte;
-
-public class DataManager {
-	
-	private List<Teacher> teachers;
-
-}
