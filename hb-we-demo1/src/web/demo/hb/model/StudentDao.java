@@ -33,7 +33,6 @@ public class StudentDao {
 	
 	public void create(Student s) {
 		try(Session session = getSessionFactory().openSession()){
-			
 			session.getTransaction().begin();
 			session.save(s);
 			session.getTransaction().commit();

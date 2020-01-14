@@ -4,5 +4,6 @@
   <module moduleId="org.eclipse.jst.jee.server:AdAgenc" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Assessment_web" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Assessment4" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:spring.mvc.demo1" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:StudentDetailsWeb" serverId="Tomcat v8.5 Server at localhost"/>
 </modules>

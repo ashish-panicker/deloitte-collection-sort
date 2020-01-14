@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="spring-demos"/>
 			<item value="hb-mongo-many-to-many"/>
 			<item value="messge-web"/>
 			<item value="hb-mongo-rel"/>
@@ -16,11 +17,12 @@
 			<item value="bookreads"/>
 			<item value="session-demo"/>
 			<item value="mongo-web2"/>
-			<item value="file-upload"/>
 		</list>
 		<list key="name">
+			<item value="Spring MVC Demo Project 1"/>
 		</list>
 		<list key="artifactId">
+			<item value="spring-mvc-demo1"/>
 			<item value="hb-mongo-many-to-many"/>
 			<item value="messge-web"/>
 			<item value="hb-mongo-rel"/>
@@ -35,7 +37,6 @@
 			<item value="bookreads"/>
 			<item value="session-demo"/>
 			<item value="mongo-web2"/>
-			<item value="file-upload"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
@@ -47,6 +48,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\boot-crud-demo"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\boot-demo-1"/>
 			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\demo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -60,6 +63,11 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\spring.mvc.demo1"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\spring.mvc.demo1\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\spring-mvc-demo1\pom.xml"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\demo1\pom.xml"/>
+			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\ioc.demo\pom.xml"/>
 			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.dmeo2"/>
 			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.demo1\pom.xml"/>
 			<item value="C:\Users\Ashis\Documents\workspace-spring-tool-suite\hb.demo1"/>
@@ -86,13 +94,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="deloitte.demo.web.demo1"/>
+			<item value="hibernate.web.demo.patient.crud"/>
 		</list>
 		<list key="groupId">
-			<item value="deloitte.demo"/>
+			<item value="hibernate.web.demo"/>
 		</list>
 		<list key="artifactId">
-			<item value="web.demo1"/>
+			<item value="patient.crud"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -1052,3 +1052,1130 @@ org.eclipse.core.runtime.CoreException: Launch configuration Main (11) reference
 2020-01-07 17:22:47,109 29056148 [r-213: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-01-07 17:23:25,539 29094578 [r-201: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-01-07 17:23:25,540 29094579 [r-201: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:22:44,463 8638   [er-14: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:22:44,596 8771   [er-14: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:26:44,261 248436 [er-14: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:26:44,265 248440 [er-14: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:01,308 265483 [er-27: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:01,320 265495 [er-27: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:12,386 276561 [er-17: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:12,388 276563 [er-17: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:13,646 277821 [er-27: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:13,654 277829 [er-27: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:35,136 299311 [er-26: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:35,140 299315 [er-26: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:35,325 299500 [er-26: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:27:35,344 299519 [er-26: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:23,784 527959 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:23,791 527966 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:43,144 547319 [er-33: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:43,150 547325 [er-33: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:53,227 557402 [er-33: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:31:53,232 557407 [er-33: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:32:46,546 610721 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:32:46,550 610725 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:32:49,661 613836 [er-32: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:32:49,666 613841 [er-32: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:33:39,862 664037 [er-30: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:33:39,865 664040 [er-30: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:34:20,914 705089 [er-17: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:34:20,918 705093 [er-17: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:34:42,993 727168 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:34:42,996 727171 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:35:01,924 746099 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:35:01,929 746104 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:35:38,560 782735 [er-34: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:35:38,563 782738 [er-34: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:09,997 874172 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:10,003 874178 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:13,215 877390 [er-36: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:13,219 877394 [er-36: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:18,501 882676 [er-37: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:18,505 882680 [er-37: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:35,992 900167 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:35,995 900170 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:58,289 922464 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:37:58,292 922467 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:16,451 940626 [er-36: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:16,456 940631 [er-36: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:34,851 959026 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:34,853 959028 [er-29: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:48,758 972933 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:38:48,762 972937 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:00,827 985002 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:00,830 985005 [ker-5: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:16,997 1001172 [er-35: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:17,007 1001182 [er-35: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:50,302 1034477 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:39:50,311 1034486 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:41:21,278 1125453 [er-37: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:41:21,294 1125469 [er-37: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:45:56,267 1400442 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:45:56,267 1400442 [er-39: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:46:52,898 1457073 [er-34: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:46:52,898 1457073 [er-34: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:47:12,905 1477080 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:47:12,913 1477088 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:47:20,444 1484619 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:47:20,452 1484627 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:48:16,834 1541009 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:48:16,834 1541009 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:48:45,957 1570132 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:48:45,957 1570132 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:49:46,418 1630593 [er-41: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:49:46,418 1630593 [er-41: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:50:01,987 1646162 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:50:01,987 1646162 [er-43: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:52:43,254 1807429 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:52:43,270 1807445 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:52:47,900 1812075 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:52:47,900 1812075 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:16,157 1840332 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:16,165 1840340 [er-44: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:26,922 1851097 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:26,922 1851097 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:28,998 1853173 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:28,998 1853173 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:40,966 1865141 [er-50: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:53:40,966 1865141 [er-50: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:07,268 1891443 [er-51: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:07,270 1891445 [er-51: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:09,385 1893560 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:09,385 1893560 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:17,260 1901435 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:17,260 1901435 [er-46: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:19,362 1903537 [er-51: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:54:19,362 1903537 [er-51: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:55:55,594 1999769 [er-47: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:55:55,598 1999773 [er-47: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:56:32,239 2036414 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 09:56:32,239 2036414 [er-49: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:24:29,811 3713986 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:24:29,819 3713994 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:05,787 3749962 [er-48: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:05,797 3749972 [er-48: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:08,056 3752231 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:08,056 3752231 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:34,806 3778981 [er-57: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:25:34,821 3778996 [er-57: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:26:27,557 3831732 [er-56: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:26:27,557 3831732 [er-56: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:26:33,649 3837824 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:26:33,649 3837824 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:10,346 3934521 [er-45: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:10,346 3934521 [er-45: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:15,341 3939516 [er-45: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:15,343 3939518 [er-45: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:29,956 3954131 [er-57: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:29,956 3954131 [er-57: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:33,032 3957207 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:33,032 3957207 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:36,912 3961087 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:36,912 3961087 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:59,381 3983556 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:28:59,381 3983556 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:29:05,997 3990172 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:29:05,997 3990172 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:41,079 4085254 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:41,090 4085265 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:46,354 4090529 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:46,356 4090531 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:52,565 4096740 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:30:52,565 4096740 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:31:09,438 4113613 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:31:09,448 4113623 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:31:51,146 4155321 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:31:51,148 4155323 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:04,025 4168200 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:04,033 4168208 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:08,650 4172825 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:08,650 4172825 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:17,519 4181694 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:32:17,521 4181696 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:42,675 4266850 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:42,675 4266850 [er-58: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:44,904 4269079 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:44,919 4269094 [er-55: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:48,950 4273125 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:33:48,952 4273127 [er-53: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:09,195 4293370 [er-56: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:09,195 4293370 [er-56: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:17,315 4301490 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:17,319 4301494 [er-59: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:23,476 4307651 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 10:34:23,476 4307651 [er-52: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:10:52,311 6496486 [er-63: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:10:52,326 6496501 [er-63: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:10:55,511 6499686 [er-66: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:10:55,511 6499686 [er-66: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:28,668 6532843 [er-63: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:28,668 6532843 [er-63: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:35,215 6539390 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:35,215 6539390 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:40,355 6544530 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:11:40,355 6544530 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:12:46,465 6610640 [er-61: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:12:46,465 6610640 [er-61: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:33,357 6657532 [er-66: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:33,365 6657540 [er-66: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:53,686 6677861 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:53,686 6677861 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:56,746 6680921 [er-61: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:13:56,746 6680921 [er-61: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:16:42,250 6846425 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:16:42,250 6846425 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:15,032 6879207 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:15,032 6879207 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:51,940 6916115 [er-62: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:51,940 6916115 [er-62: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:53,250 6917425 [er-73: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:17:53,251 6917426 [er-73: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:10,130 6934305 [er-73: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:10,145 6934320 [er-73: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:21,389 6945564 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:21,389 6945564 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:30,301 6954476 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:30,309 6954484 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:32,740 6956915 [er-72: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:32,740 6956915 [er-72: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:44,484 6968659 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:18:44,484 6968659 [er-64: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:20:59,959 7104134 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:20:59,959 7104134 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:25:43,826 7388001 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:25:43,826 7388001 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:05,751 7409926 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:05,751 7409926 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:06,886 7411061 [er-79: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:06,886 7411061 [er-79: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:30,160 7434335 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - The POM for org.hibernate:hibernate-core:jar:5.1.0.RELEASE is missing, no dependency information available
+2020-01-09 11:26:30,692 7434867 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:30,692 7434867 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:32,997 7437172 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:32,997 7437172 [er-76: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:34,126 7438301 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:34,126 7438301 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:52,789 7456964 [er-80: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:52,789 7456964 [er-80: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:53,158 7457333 [er-77: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:26:53,158 7457333 [er-77: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:27:25,864 7490039 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:27:25,864 7490039 [er-74: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:30:14,831 7659006 [er-78: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:30:14,832 7659007 [er-78: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:30:16,871 7661046 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:30:16,871 7661046 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:32:33,693 7797868 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:32:33,693 7797868 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:32:38,932 7803107 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:32:38,932 7803107 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:36:49,205 8053380 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:36:49,209 8053384 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:37:48,692 8112867 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:37:48,697 8112872 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:37:59,141 8123316 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:37:59,141 8123316 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:38:30,793 8154968 [er-87: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:38:30,806 8154981 [er-87: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:38:42,119 8166294 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:38:42,123 8166298 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:00,641 8184816 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:00,657 8184832 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:27,354 8211529 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:27,354 8211529 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:35,641 8219816 [er-87: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:39:35,641 8219816 [er-87: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:29,139 8273314 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:29,143 8273318 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:42,100 8286275 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:42,100 8286275 [er-81: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:51,335 8295510 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:40:51,335 8295510 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:24,958 8329133 [er-86: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:24,958 8329133 [er-86: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:32,528 8336703 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:32,528 8336703 [er-83: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:51,400 8355575 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:41:51,400 8355575 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:21,086 8385261 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:21,088 8385263 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:28,828 8393003 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:28,828 8393003 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:38,833 8403008 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:42:38,835 8403010 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:43:06,273 8430448 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:43:06,273 8430448 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:43:56,866 8481041 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:43:56,866 8481041 [er-84: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:46:12,271 8616446 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:46:12,271 8616446 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:47:34,198 8698373 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:47:34,199 8698374 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:48:04,854 8729029 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:48:04,854 8729029 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:03,807 8787982 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:03,807 8787982 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:07,841 8792016 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:07,842 8792017 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:12,224 8796399 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:49:12,224 8796399 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:02,160 8846335 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:02,160 8846335 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:18,763 8862938 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:18,763 8862938 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:29,323 8873498 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:50:29,325 8873500 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:51:42,575 8946750 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:51:42,575 8946750 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:06,330 8970505 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:06,330 8970505 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:35,230 8999405 [er-91: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:35,230 8999405 [er-91: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:44,163 9008338 [er-94: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:44,163 9008338 [er-94: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:48,256 9012431 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:52:48,256 9012431 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:00,478 9024653 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:00,478 9024653 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:08,428 9032603 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:08,428 9032603 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:56,464 9080639 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:53:56,464 9080639 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:19,598 9103773 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:19,598 9103773 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:27,261 9111436 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:27,261 9111436 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:56,868 9141043 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:54:56,868 9141043 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:08,996 9153171 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:09,013 9153188 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:33,262 9177437 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:33,262 9177437 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:55,961 9200136 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:55,961 9200136 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:57,965 9202140 [er-94: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:55:57,965 9202140 [er-94: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:03,594 9207769 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:03,594 9207769 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:16,861 9221036 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:16,861 9221036 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:56,884 9261059 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:56:56,884 9261059 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:57:08,958 9273133 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:57:08,958 9273133 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:57:31,313 9295488 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:57:31,313 9295488 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:04,630 9328805 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:04,630 9328805 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:24,901 9349076 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:24,901 9349076 [er-93: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:33,024 9357199 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:33,024 9357199 [er-90: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:50,417 9374592 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:58:50,417 9374592 [er-95: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:59:18,911 9403086 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 11:59:18,911 9403086 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:00:17,133 9461308 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:00:17,133 9461308 [er-89: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:00:59,523 9503698 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:00:59,523 9503698 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:07,988 9512163 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:07,988 9512163 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:19,862 9524037 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:19,862 9524037 [er-85: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:24,648 9528823 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:01:24,648 9528823 [er-88: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:02:13,822 9577997 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:02:13,822 9577997 [er-92: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:07:24,331 9888506 [er-97: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:07:24,331 9888506 [er-97: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:07:28,238 9892413 [er-96: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:07:28,238 9892413 [er-96: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:17,455 10421630 [er-99: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:17,456 10421631 [er-99: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:28,598 10432773 [r-100: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:28,598 10432773 [r-100: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:37,167 10441342 [er-99: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:16:37,167 10441342 [er-99: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:34,625 11398800 [r-101: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:34,627 11398802 [r-101: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:40,383 11404558 [r-104: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:40,384 11404559 [r-104: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:49,069 11413244 [er-98: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:49,070 11413245 [er-98: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:59,307 11423482 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:32:59,308 11423483 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:16,413 11440588 [r-104: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:16,413 11440588 [r-104: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:17,437 11441612 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:17,437 11441612 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:26,707 11450882 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:26,707 11450882 [r-105: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:35,990 11460165 [r-106: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:33:35,990 11460165 [r-106: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:15,206 11559381 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:15,206 11559381 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:19,427 11563602 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:19,427 11563602 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:39,903 11584078 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:39,903 11584078 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:50,510 11594685 [r-103: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:35:50,510 11594685 [r-103: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:36:18,902 11623077 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:36:18,902 11623077 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:37:37,029 11701204 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:37:37,029 11701204 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:06,839 11731014 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:06,839 11731014 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:25,845 11750020 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:25,845 11750020 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:32,495 11756670 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:38:32,495 11756670 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:06,521 11850696 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:06,522 11850697 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:13,841 11858016 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:13,842 11858017 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:23,259 11867434 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:23,259 11867434 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:24,372 11868547 [r-103: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:24,372 11868547 [r-103: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:33,788 11877963 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:33,789 11877964 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:40,128 11884303 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:40:40,128 11884303 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:41:36,638 11940813 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:41:36,638 11940813 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:02,608 11966783 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:02,608 11966783 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:19,898 11984073 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:19,898 11984073 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:20,932 11985107 [r-114: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:20,932 11985107 [r-114: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:24,644 11988819 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:24,644 11988819 [r-108: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:49,275 12013450 [r-115: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:42:49,275 12013450 [r-115: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:43:25,343 12049518 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:43:25,343 12049518 [r-110: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:22,309 12106484 [r-113: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:22,309 12106484 [r-113: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:25,431 12109606 [r-114: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:25,431 12109606 [r-114: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:29,506 12113681 [r-113: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:44:29,506 12113681 [r-113: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:50,337 12374512 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:50,338 12374513 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:53,918 12378093 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:53,918 12378093 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:59,930 12384105 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:48:59,930 12384105 [r-112: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:49:45,087 12429262 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:49:45,087 12429262 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:50:31,926 12476101 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:50:31,926 12476101 [r-109: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:50:46,201 12490376 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:50:46,202 12490377 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:51:35,375 12539550 [r-118: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:51:35,375 12539550 [r-118: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:52:03,795 12567970 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:52:03,795 12567970 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:03,911 12628086 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:03,911 12628086 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:38,048 12662223 [r-116: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:38,063 12662238 [r-116: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:45,181 12669356 [r-120: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:45,181 12669356 [r-120: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:54,439 12678614 [r-118: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:54,439 12678614 [r-118: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:59,750 12683925 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:53:59,766 12683941 [r-117: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:54:04,161 12688336 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:54:04,161 12688336 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:55:18,998 12763173 [r-120: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:55:18,998 12763173 [r-120: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:56:26,235 12830410 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:56:26,235 12830410 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:58:37,313 12961488 [r-122: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 12:58:37,313 12961488 [r-122: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:45,292 13149467 [r-126: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:45,292 13149467 [r-126: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:54,164 13158339 [r-124: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:54,164 13158339 [r-124: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:57,401 13161576 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:01:57,401 13161576 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:10,247 13174422 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:10,247 13174422 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:15,214 13179389 [r-127: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:15,214 13179389 [r-127: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:18,514 13182689 [r-127: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:18,514 13182689 [r-127: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:24,221 13188396 [r-126: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:02:24,221 13188396 [r-126: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:03:39,370 13263545 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:03:39,370 13263545 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:03:48,053 13272228 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:03:48,069 13272244 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:07:34,322 13498497 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:07:34,322 13498497 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:07:46,069 13510244 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:07:46,069 13510244 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:12,597 13536772 [r-133: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:12,597 13536772 [r-133: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:19,736 13543911 [r-135: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:19,736 13543911 [r-135: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:37,442 13561617 [r-138: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:08:37,442 13561617 [r-138: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:09:34,913 13619088 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:09:34,913 13619088 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:09:51,918 13636093 [r-134: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:09:51,918 13636093 [r-134: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:10:04,069 13648244 [r-137: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:10:04,069 13648244 [r-137: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:13,949 16358124 [r-131: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:13,949 16358124 [r-131: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:22,840 16367015 [r-131: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:22,840 16367015 [r-131: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:26,715 16370890 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:26,716 16370891 [r-119: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:28,764 16372939 [r-139: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:28,764 16372939 [r-139: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:41,578 16385753 [r-137: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 13:55:41,578 16385753 [r-137: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:04:53,391 16937566 [r-145: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:04:53,391 16937566 [r-145: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:05:10,653 16954828 [r-144: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:05:10,653 16954828 [r-144: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:05:22,244 16966419 [r-144: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:05:22,244 16966419 [r-144: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:29:23,456 18407631 [r-159: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:29:23,456 18407631 [r-159: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:20,373 18764548 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:20,373 18764548 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:26,357 18770532 [r-161: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:26,357 18770532 [r-161: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:51,788 18795963 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:51,788 18795963 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:58,033 18802208 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:35:58,033 18802208 [r-154: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:36:03,931 18808106 [r-161: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:36:03,931 18808106 [r-161: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:38:20,141 18944316 [r-167: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:38:20,141 18944316 [r-167: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:50:23,262 19667437 [r-172: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 14:50:23,262 19667437 [r-172: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:13:42,022 21066197 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:13:42,038 21066213 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:10,202 21094377 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:10,202 21094377 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:13,361 21097536 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:13,361 21097536 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:22,215 21106390 [r-176: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:14:22,215 21106390 [r-176: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:40,425 21304600 [r-174: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:40,425 21304600 [r-174: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:43,800 21307975 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:43,800 21307975 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:50,445 21314620 [r-181: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:17:50,445 21314620 [r-181: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:19:40,804 21424979 [r-184: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:19:40,804 21424979 [r-184: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:21:46,086 21550261 [r-174: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:21:46,086 21550261 [r-174: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:22:18,711 21582886 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:22:18,711 21582886 [r-177: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:22:23,283 21587458 [r-183: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 15:22:23,283 21587458 [r-183: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 18:34:46,661 33130836 [r-196: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-09 18:34:46,663 33130838 [r-196: Building] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-10 11:27:21,182 7991113 [g Maven Project] ERROR m2e.wtp.WTPProjectConfigurator  - Unable to configure spring.mvc.demo1
+org.eclipse.m2e.wtp.MarkedException: Unable to configure spring.mvc.demo1
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1371)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+2020-01-10 11:28:43,797 8073728 [g Maven Project] ERROR m2e.wtp.WTPProjectConfigurator  - Unable to configure spring.mvc.demo1
+org.eclipse.m2e.wtp.MarkedException: Unable to configure spring.mvc.demo1
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1371)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+2020-01-10 11:32:05,871 8275802 [g Maven Project] ERROR m2e.wtp.WTPProjectConfigurator  - Unable to configure spring.mvc.demo1
+org.eclipse.m2e.wtp.MarkedException: Unable to configure spring.mvc.demo1
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1371)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+2020-01-10 11:38:30,677 8660608 [g Maven Project] ERROR m2e.wtp.WTPProjectConfigurator  - Unable to configure spring.mvc.demo1
+org.eclipse.m2e.wtp.MarkedException: Unable to configure spring.mvc.demo1
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1371)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+2020-01-13 15:51:08,995 11042699 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (16) references closed project ioc.demo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (16) references closed project ioc.demo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:09,042 11042746 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (16) references closed project ioc.demo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (16) references closed project ioc.demo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:09,058 11042762 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (16) references closed project ioc.demo
+org.eclipse.core.runtime.CoreException: Launch configuration Main (16) references closed project ioc.demo
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:12,037 11045741 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (14) references closed project hb.demo4
+org.eclipse.core.runtime.CoreException: Launch configuration Main (14) references closed project hb.demo4
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:12,040 11045744 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (14) references closed project hb.demo4
+org.eclipse.core.runtime.CoreException: Launch configuration Main (14) references closed project hb.demo4
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:12,056 11045760 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (14) references closed project hb.demo4
+org.eclipse.core.runtime.CoreException: Launch configuration Main (14) references closed project hb.demo4
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:18,496 11052200 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (17) references closed project demo3.db
+org.eclipse.core.runtime.CoreException: Launch configuration Main (17) references closed project demo3.db
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:18,496 11052200 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (17) references closed project demo3.db
+org.eclipse.core.runtime.CoreException: Launch configuration Main (17) references closed project demo3.db
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:18,511 11052215 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (17) references closed project demo3.db
+org.eclipse.core.runtime.CoreException: Launch configuration Main (17) references closed project demo3.db
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:21,417 11055121 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (18) references closed project demo.hb
+org.eclipse.core.runtime.CoreException: Launch configuration Main (18) references closed project demo.hb
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:21,418 11055122 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (18) references closed project demo.hb
+org.eclipse.core.runtime.CoreException: Launch configuration Main (18) references closed project demo.hb
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:51:21,431 11055135 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration Main (18) references closed project demo.hb
+org.eclipse.core.runtime.CoreException: Launch configuration Main (18) references closed project demo.hb
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:52:12,549 11106253 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:52:12,550 11106254 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 15:52:12,564 11106268 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 16:13:53,956 12407660 [ces and javadoc] ERROR dt.internal.DownloadSourcesJob  - Could not download sources for com.oracle:ojdbc8:12.2.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.oracle:ojdbc8:jar:sources:12.2.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.oracle:ojdbc8:jar:sources:12.2.0.1
+2020-01-13 16:17:59,256 12652960 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:347)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 16:17:59,257 12652961 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:522)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:348)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 16:17:59,272 12652976 [en Dependencies] ERROR venLaunchConfigurationListener  - Launch configuration BootDemo1Application references closed project boot-demo-1
+org.eclipse.core.runtime.CoreException: Launch configuration BootDemo1Application references closed project boot-demo-1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:349)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:373)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-01-13 16:18:29,363 12683067 [ces and javadoc] ERROR dt.internal.DownloadSourcesJob  - Could not download javadoc for com.oracle:ojdbc8:12.2.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.oracle:ojdbc8:jar:javadoc:12.2.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.oracle:ojdbc8:jar:javadoc:12.2.0.1

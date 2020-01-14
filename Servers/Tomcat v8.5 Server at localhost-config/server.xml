@@ -104,7 +104,7 @@
 
 				
 				
-			<Context docBase="adlist" path="/adlist" reloadable="true" source="org.eclipse.jst.jee.server:adlist"/><Context docBase="mongo-hb-web1" path="/mongo-hb-web1" reloadable="true" source="org.eclipse.jst.jee.server:mongo-hb-web1"/><Context docBase="StudentDetailsWeb" path="/StudentDetailsWeb" reloadable="true" source="org.eclipse.jst.jee.server:StudentDetailsWeb"/><Context docBase="messge-web" path="/messge-web" reloadable="true" source="org.eclipse.jst.jee.server:messge-web"/><Context docBase="CraigsList" path="/CraigsList" reloadable="true" source="org.eclipse.jst.jee.server:CraigsList"/></Host>
+			<Context docBase="adlist" path="/adlist" reloadable="true" source="org.eclipse.jst.jee.server:adlist"/><Context docBase="mongo-hb-web1" path="/mongo-hb-web1" reloadable="true" source="org.eclipse.jst.jee.server:mongo-hb-web1"/><Context docBase="StudentDetailsWeb" path="/StudentDetailsWeb" reloadable="true" source="org.eclipse.jst.jee.server:StudentDetailsWeb"/><Context docBase="messge-web" path="/messge-web" reloadable="true" source="org.eclipse.jst.jee.server:messge-web"/><Context docBase="CraigsList" path="/CraigsList" reloadable="true" source="org.eclipse.jst.jee.server:CraigsList"/><Context docBase="spring.mvc.demo1" path="/spring.mvc.demo1" reloadable="true" source="org.eclipse.jst.j2ee.server:spring.mvc.demo1"/></Host>
 			<Context docBase="D:/images/apache/" path="/static"/>
 		</Engine>
 	</Service>
