@@ -16139,3 +16139,129 @@ java.lang.Exception: The project description file (.project) for 'StudentDetails
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:42:05.759
 !MESSAGE executing callback sts4.classpath.xkRjqyey SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.503
+!MESSAGE Preparing classpath changed notification demo.hb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.524
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.547
+!MESSAGE classpath=49 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.572
+!MESSAGE buffering callback sts4.classpath.xkRjqyey demo.hb false 48
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.585
+!MESSAGE Preparing classpath changed notification demo3.db
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.601
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.625
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.643
+!MESSAGE buffering callback sts4.classpath.xkRjqyey demo3.db false 31
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.657
+!MESSAGE Preparing classpath changed notification hb-we-demo1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.670
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.688
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.709
+!MESSAGE buffering callback sts4.classpath.xkRjqyey hb-we-demo1 false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.722
+!MESSAGE Preparing classpath changed notification hb.demo1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.763
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.784
+!MESSAGE buffering callback sts4.classpath.xkRjqyey hb.demo1 false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.798
+!MESSAGE Preparing classpath changed notification hb.demo3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.812
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.831
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.848
+!MESSAGE buffering callback sts4.classpath.xkRjqyey hb.demo3 false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.864
+!MESSAGE Preparing classpath changed notification hb.demo4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.876
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.895
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.915
+!MESSAGE buffering callback sts4.classpath.xkRjqyey hb.demo4 false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.930
+!MESSAGE Preparing classpath changed notification hb.dmeo2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.945
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.964
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.980
+!MESSAGE buffering callback sts4.classpath.xkRjqyey hb.dmeo2 false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:26.992
+!MESSAGE Preparing classpath changed notification jdbc1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.005
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.021
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.038
+!MESSAGE buffering callback sts4.classpath.xkRjqyey jdbc1 false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.056
+!MESSAGE Preparing classpath changed notification web-demo1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.070
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.086
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.111
+!MESSAGE buffering callback sts4.classpath.xkRjqyey web-demo1 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.123
+!MESSAGE executing callback sts4.classpath.xkRjqyey 9 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.189
+!MESSAGE executing callback sts4.classpath.xkRjqyey SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.396
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xkRjqyey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.414
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.xkRjqyey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.429
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 15:43:27.444
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xkRjqyey => OK
