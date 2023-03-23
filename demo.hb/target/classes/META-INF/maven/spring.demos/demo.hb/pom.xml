@@ -8,7 +8,7 @@
 	<name>Sprign core Dibernate demo</name>
 	
 	<properties>
-		<spring.version>5.3.19</spring.version>
+		<spring.version>5.3.26</spring.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate.validator>6.0.23.Final</hibernate.validator>
 	</properties>
